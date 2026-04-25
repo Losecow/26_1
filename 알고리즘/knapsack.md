@@ -8,6 +8,11 @@
 1. **0-1 배낭 문제 (0-1 Knapsack Problem)**: 물건을 쪼갤 수 없습니다. (물건을 통째로 챙기거나 아예 챙기지 않아야 함)
 2. **분할 가능 배낭 문제 (Fractional Knapsack Problem)**: 물건을 쪼갤 수 있습니다. (물건의 일부분만 담는 것이 가능함)
 
+
+
+
+
+
 ---
 
 ## 2. 분할 가능 배낭 문제 (Fractional Knapsack Problem)
